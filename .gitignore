@@ -4,6 +4,7 @@ __pycache__/
 *.egg-info/
 .env/
 venv/
+spotify_ml_env/
 .DS_Store
 
 # VS Code
